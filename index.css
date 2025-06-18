@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+#hero{
+    width: 550px;
+    height: 550px;
+    background-color: #1F2937;
+    color: white;
+    padding: 100px 0 0 50px;
+}
+
+h1 {
+    margin: 0;
+}
+
+
+#br-text {
+    color: #55F991;
+}
+
+#btn-1 {
+    margin: 30px 0 0 0;
+    background: #10B981;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 10px 20px;
+}
+
+#p-text{
+    color: #D5D4D8;
+}
+
+.line {
+    margin: 50px 0 0 0 ;
+    width: 500px;
+    color: red;
+    height: 1px;
+    border: 1px solid #2F3E53;
+}
+
+#flexbox-text {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px ;
+}
+.pass-area {
+    width: 211px;
+    height: 29px;
+    background-color: #273549;
+    color: #10B981;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 4px;
+}
+#btn-1:hover {
+    background-color: #71B48D;
+}
